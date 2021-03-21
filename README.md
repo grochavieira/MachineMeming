@@ -1,18 +1,18 @@
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/grochavieira/machine-posting?color=%2304D361&style=for-the-badge">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/grochavieira/machine-posting?color=%2304D361&style=flat">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/grochavieira/machine-posting?style=for-the-badge">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/grochavieira/machine-posting?style=flat">
   
   <a href="https://github.com/grochavieira/machine-posting/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/grochavieira/machine-posting?style=for-the-badge">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/grochavieira/machine-posting?style=flat">
   </a>
     
-   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=for-the-badge">
+   <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen?style=flat">
   
  
 </p>
 <h1 align="center">
-    Machine Posting
+    Video Maker
 </h1>
 
 <h4 align="center"> 
@@ -34,24 +34,13 @@
 
 ## 💻 Sobre o projeto
 
-Um 🤖 capaz de produzir posts a partir de palavras 🔑🔑 digitadas pelo usuário e que realize no final um deploy do post para uma rede social
+video maker
 
 ---
 
 <a name="-funcionalidades"></a>
 
 ## ⚙️ Funcionalidades
-
-- [ ] Posts podem ser criados enviando:
-
-  - [ ] palavra-chave do texto a ser produzido (opcional);
-  - [ ] palavra-chave da imagem a ser utilizada;
-  - [ ] texto a ser inserido na imagem.
-
-- [ ] O 🤖 pode acessar sua conta enviando:
-
-  - [ ] nome de usuário;
-  - [ ] senha;
 
 ---
 
@@ -72,15 +61,12 @@ Um 🤖 capaz de produzir posts a partir de palavras 🔑🔑 digitadas pelo usu
 ## 🦸‍♂️ **Autor**
 
 <p>
-<kbd>
- <img src="https://avatars1.githubusercontent.com/u/48029638?s=460&u=f8d11a7aa9ce76a782ef140a075c5c81be878f00&v=4" width="150px;" alt=""/>
- </kbd>
+ <img src="https://avatars.githubusercontent.com/u/48029638?s=460&u=40540691957b5aabf04e2e1d4cddf8d3633cb1be&v=4" width="150px;" alt="grochavieira"/>
  <br />
  <sub><strong>🌟 Guilherme Rocha Vieira 🌟</strong></sub>
 </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Guilherme-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grochavieira/)](https://www.linkedin.com/in/grochavieira/)
-[![Gmail Badge](https://img.shields.io/badge/-guirocha.hopeisaba@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:guirocha.hopeisaba@gmail.com)](mailto:guirocha.hopeisaba@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/grochavieira/)](https://www.linkedin.com/in/grochavieira/)
 
 ---
 
